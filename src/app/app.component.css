@@ -1,0 +1,6 @@
+/* #TA04 */
+:host {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,16 @@
+- Set Up Input Bidning
+  - in the parent component template, find where we create
+    the child component #TA01
+  - decide on the property name that we want to use to 
+    communicate from the parent to the child #TA01
+  - add a new binding to the child component, specifying
+    the data we want to pass down #TA01
+  - In the child component's class file, add an input
+    property. This tells the component to expect the
+    parent to provide the value for this property #TA02
+  - In the child component's template file, reference
+    that input property #TA03
+
+- Use Host Element Selectors
+  - this is used to style the app.component without
+    using global CSS. #TA04
